@@ -55,7 +55,7 @@ tab1,tab2,tab3,tab4 = st.tabs(["Spam Classifier","Language Detection","Food Revi
 
 with tab1:
     # st.title("📩 Spam Classification")
-    st.markdown("""<h2 style='color:yellow'>📩 Spam Classification</h2>""", unsafe_allow_html=True)
+    st.markdown("""<h2 style='color:gray'>📩 Spam Classification</h2>""", unsafe_allow_html=True)
     msg = st.text_input("Enter Msg ")
     if st.button("Prediction"):
         pred = spam_model.predict([msg])
@@ -77,7 +77,7 @@ with tab1:
 
 with tab2:
     # st.title("🌐 Language Detection")
-    st.markdown("""<h2 style='color:yellow'>🌐 Language Detection</h2>""", unsafe_allow_html=True)
+    st.markdown("""<h2 style='color:gray'>🌐 Language Detection</h2>""", unsafe_allow_html=True)
     msga = st.text_input("Enter Msg")
     if st.button("Prediction "):
         pred = language_model.predict([msga])
@@ -131,7 +131,7 @@ with tab2:
 
 with tab3:
     # st.title("🍔 Food Review Sentiment")
-    st.markdown("""<h2 style='color:yellow'>🍔 Food Review Sentiment</h2>""", unsafe_allow_html=True)
+    st.markdown("""<h2 style='color:gray'>🍔 Food Review Sentiment</h2>""", unsafe_allow_html=True)
     msg3 = st.text_input("Enter msg")
     if st.button("prediction"):
         pred = spam_model.predict([msg3])
@@ -154,7 +154,7 @@ with tab3:
 
 with tab4:
     # st.title("📰 News Classification")
-    st.markdown("""<h2 style='color:yellow'>📰 News Classification</h2>""", unsafe_allow_html=True)
+    st.markdown("""<h2 style='color:gray'>📰 News Classification</h2>""", unsafe_allow_html=True)
     msg4 = st.text_input(" Enter Msg")
     if st.button(" Prediction "):
         pred = news_model.predict([msg4])
