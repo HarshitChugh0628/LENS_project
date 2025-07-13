@@ -1,1 +1,1 @@
-<img src="images/banner.png" width="600"/>
+<img src="LENS_pic.jpg" width="600"/>
