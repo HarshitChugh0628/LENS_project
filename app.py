@@ -46,7 +46,7 @@ with st.sidebar:
         st.write("We are students building smart NLP tools using ML.")
     with st.expander("📞 Contact us"):
         st.write("Mob: 7665056712")
-        st.write("Email: harshit@example.com")
+        st.write("Email: 10harshit2003@gmail.com")
         st.write("GitHub: https://github.com/HarshitChugh0628/LENS_project2025.git")
         st.write("Linkdin: www.linkedin.com/in/harshitchugh2810")
 
