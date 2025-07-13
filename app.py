@@ -41,7 +41,7 @@ local_css("""
 
 ## sidebar
 with st.sidebar:
-    st.image("sh-2.png", use_container_width=True)
+    st.image("my picture.jpg", use_container_width=True)
     with st.expander("🧑‍🤝‍🧑 About us"):
         st.write("We are students building smart NLP tools using ML.")
     with st.expander("📞 Contact us"):
