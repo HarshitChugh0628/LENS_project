@@ -34,3 +34,13 @@ LENSE (Language detection, Spam Classification, News classification, and Sentime
 - **Models**:
   - Pretrained models stored in `.pkl` format using `joblib`
 - **Deployment**: [Streamlit Cloud](https://2025lensproject.streamlit.app/)
+
+📫 Contact
+Name: Harshit Chugh
+
+[Email](10harshit2003@gmail.com)
+
+[GitHub](https://github.com/HarshitChugh0628/LENS_project2025.git)
+
+❤️ Acknowledgements
+Special thanks to our professors and contributors who guided this project.
