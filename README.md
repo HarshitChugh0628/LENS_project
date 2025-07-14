@@ -43,4 +43,4 @@ Name: Harshit Chugh
 [GitHub](https://github.com/HarshitChugh0628/LENS_project2025.git)
 
 ❤️ Acknowledgements
-Special thanks to our professors and contributors who guided this project.
+Thanks for your Support
